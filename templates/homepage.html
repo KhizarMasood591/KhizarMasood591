@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+<script src="{{url_for('static',filename='frontend.js')}}"></script>
+{% block title %}
+  <title>RSGH Offer Letter</title>
+{% endblock %}
+{% block navigation %}
+<nav>
+  <ul>
+    <li>Home</li>
+    <li>Add Offers</li>
+  </ul>
+</nav>
+{% endblock %}
+{% block content %}
+  <form method="post" action="{{url_for('homepage')}}">
+    <div class="form-wrapper">
+      <div class="property-field">
+        <label>Property</label>
+        <select class="property-names", name="property" id="offer-letter-fields">
+          <option value="DesertRock">DesertRock</option>
+          <option value="Shebara">Shebara</option>
+          <option value="TBH">TBH</option>
+        </select>
+      </div>
+      <div class="guest-name-field">
+        <label>Guest Name</label>
+        <input type="text" name="Guest Name", id="offer-letter-fields">
+      </div>
+      <div class="check-in-field">
+        <label>Arrival Date</label>
+        <input type="date" name="check-in" id="offer-letter-fields" class="arrival-date">
+      </div>
+      <div class="room-night-field">
+        <label>Nights</label>
+        <input type="number" name="room-nights" id="offer-letter-fields" class="nights">
+      </div>
+      <div class="check-out-field">
+        <label>Departure Date</label>
+        <input type="text" name="check-out" id="offer-letter-fields" class="dep-date"  placeholder="" disabled>
+      </div>
+      <div class="offer-type">
+        <label>Offer Letter Type</label>
+        <select name="offer-type" id="offer-letter-fields">
+          <option value="Guest">Guest</option>
+          <option value="Travel Agency">Travel Agency</option>
+          <option value="Wholesale">Wholesale</option>
+        </select>
+      </div>
+      <div class="adult-count">
+          <label>Adults</label>
+          <input type="number" name="adults" id="offer-letter-fields">
+      </div>
+      <div class="rate-name-field">
+        <label>Select Offer</label>
+        <select name="rate-name" class="rate-field" id="offer-letter-fields">
+        </select>
+      </div>
+      <div class="discount-pct">
+          <label>Discount</label>
+          <input type="number" name="discount" id="offer-letter-fields">
+      </div>
+    </div>
+    <button class="generate-letter btn btn-primary" disabled>Download Offer Letter</button>
+  </form>
+{% endblock %}
+
