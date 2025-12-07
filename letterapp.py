@@ -14,12 +14,22 @@ from dotenv import load_dotenv
 load_dotenv()
 import os
 import subprocess
+import MySQLdb
+import sshtunnel
+
+tunnel = sshtunnel.SSHTunnelForwarder(
+    ('ssh.pythonanywhere.com', 22),
+    ssh_username='khizar591', ssh_password='118562591.fF',
+    remote_bind_address=('khizar591.mysql.pythonanywhere-services.com', 3306)
+)
+tunnel.start()
+local_port = tunnel.local_bind_port
 
 app  = Flask(__name__)
-SQLALCHEMY_DATABASE_URI = "mysql+mysqlconnector://{username}:{password}@{hostname}/{databasename}".format(
+SQLALCHEMY_DATABASE_URI = "mysql+mysqlconnector://{username}:{password}@127.0.0.1:{hostname}/{databasename}".format(
     username="khizar591",
     password="dunhill246",
-    hostname="khizar591.mysql.pythonanywhere-services.com",
+    hostname=local_port,
     databasename="khizar591$routes",
 )
 app.config['SECRET_KEY'] = "118562591"
@@ -27,6 +37,8 @@ app.config["SQLALCHEMY_DATABASE_URI"] = SQLALCHEMY_DATABASE_URI
 app.config["SQLALCHEMY_POOL_RECYCLE"] = 299
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 app.config["PERMANENT_SESSION_LIFETIME"] = timedelta(minutes=120)
+
+
 
 db = SQLAlchemy(app)
 login_manager = LoginManager(app)
