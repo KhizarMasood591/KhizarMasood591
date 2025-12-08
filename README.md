@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>👋 About Me</h1>
 <ul>
   <li>Python Developer</li>
@@ -15,3 +16,6 @@
   <li>Others: Pandas, OR-Tools</li>
 </ul>
 <h2>🚀 Highlighted Projects</h2>
+=======
+# offer-letter-generator-flask
+>>>>>>> 7801541670eafd4a32246716aef1ffbd2b3f636a
