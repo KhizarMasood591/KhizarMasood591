@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 <h1>👋 About Me</h1>
 <ul>
   <li>Python Developer</li>
   <li>Specialization: Full-Stack (Django/FastAPI + Vue/React), Web Automation (Selenium, Playwright), Web Scraping (Scrapy, BeautifulSoup, etc.)</li>
-  <li>Interests: Data engineering, automation, APIs, OR-Tools routing (optional)</li>
+  <li>Interests: Data engineering, automation, APIs, AI Integration</li>
 </ul>
 <h2>🛠 Tech Stack</h2>
 <ul>
@@ -16,6 +15,6 @@
   <li>Others: Pandas, OR-Tools</li>
 </ul>
 <h2>🚀 Highlighted Projects</h2>
-=======
+
+
 # offer-letter-generator-flask
->>>>>>> 7801541670eafd4a32246716aef1ffbd2b3f636a
