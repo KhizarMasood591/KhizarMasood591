@@ -1,20 +1,70 @@
-<h1>👋 About Me</h1>
-<ul>
-  <li>Python Developer</li>
-  <li>Specialization: Full-Stack (Django/FastAPI + Vue/React), Web Automation (Selenium, Playwright), Web Scraping (Scrapy, BeautifulSoup, etc.)</li>
-  <li>Interests: Data engineering, automation, APIs, AI Integration</li>
-</ul>
-<h2>🛠 Tech Stack</h2>
-<ul>
-  <li>Python, Django, FastAPI</li>
-  <li>React</li>
-  <li>Automation: Selenium, Playwright</li>
-  <li>Scraping: Scrapy, BeautifulSoup, requests</li>
-  <li>Databases: PostgreSQL, MySQL</li>
-  <li>Cloud / DevOps: Docker, Railway.app, Render, GitHub Actions</li>
-  <li>Others: Pandas, OR-Tools</li>
-</ul>
-<h2>🚀 Highlighted Projects</h2>
+# 👋 Hi, I'm Khizar Masood
+## 🐍 Python Developer | AI & Automation Engineer | Backend Specialist
+
+I am a Python Developer focused on building intelligent automation systems, backend APIs, AI-powered workflows, and scalable data solutions. I specialize in solving real-world business problems using clean, efficient, and production-ready Python code.
+
+---
+
+## 🚀 Core Expertise
+
+### 🧠 Artificial Intelligence & AI Automation
+- AI-powered workflow automation
+- LLM API integrations (OpenAI-style APIs)
+- Prompt engineering
+- AI-assisted document generation
+- Intelligent data processing
+- AI + business process automation
+
+___
+
+### 🔹 Backend Development
+- Flask API Development
+- RESTful Services
+- Authentication & Authorization
+- PDF generation & document automation
+- Third-party API integrations
+- Dockerized applications
+- Linux deployment
+
+___
+
+### 🔹 Web Scraping & Automation
+- Scrapy
+- Selenium
+- Playwright
+- Rotating proxies & anti-bot handling
+- CAPTCHA handling strategies
+- Data extraction at scale
+- Scheduled automation systems
+
+___
+
+### 🔹 Data Engineering & Processing
+- ETL pipelines
+- Pandas-based transformation
+- CSV / Excel automation
+- Database integration (PostgreSQL, MySQL)
+- Data cleaning & validation
+
+___
+
+## 🛠 Technical Stack
+
+**Languages:**  
+Python, SQL, JavaScript (basic)
+
+**Frameworks & Libraries:**  
+Flask, Scrapy, Selenium, Playwright, Pandas, OR-Tools
+
+**AI & Automation:**  
+LLM APIs, Prompt Engineering, AI-assisted workflows
+
+**Databases:**  
+PostgreSQL, MySQL
+
+**Tools & DevOps:**  
+Docker, Git, Linux, Railway, CI/CD basics
+
+## 📌 Featured Projects
 
 
-# offer-letter-generator-flask
