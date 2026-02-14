@@ -67,15 +67,6 @@ Docker, Git, Linux, Railway, CI/CD basics
 
 ## 📌 Featured Projects
 
-
-### 🧾 Reservation Offer Letter Generator
-Flask-based system that dynamically generates professional PDF offer letters for hotel reservation teams.
-
-- Automated PDF generation
-- Business-ready document workflow
-- Dockerized deployment
-🔗 Repository:
-
 ___
 
 ### 🚗 Employee Routing Optimization Engine
