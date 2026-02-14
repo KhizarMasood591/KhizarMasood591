@@ -68,3 +68,22 @@ Docker, Git, Linux, Railway, CI/CD basics
 ## 📌 Featured Projects
 
 
+### 🧾 Reservation Offer Letter Generator
+Flask-based system that dynamically generates professional PDF offer letters for hotel reservation teams.
+
+- Automated PDF generation
+- Business-ready document workflow
+- Dockerized deployment
+🔗 Repository:
+
+___
+
+### 🚗 Employee Routing Optimization Engine
+Vehicle routing system using OR-Tools in Django:
+- Time constraints
+- Capacity constraints
+- Multi-shift routing logic
+- Optimization modeling
+🔗 Repository:
+
+
