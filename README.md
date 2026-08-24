@@ -13,6 +13,7 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg">
   <img height=50px width=50px src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png">
+  <img height=50px width=50px src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg">
 </span>
 <br>
 <br>
