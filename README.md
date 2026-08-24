@@ -13,12 +13,13 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
 <span><img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"><img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></span>
 <br>
 <strong>Data Engineering & Integration</strong>
-<br>
+<p>ETL, Data Pipelines, Data Warehousing, Data Transformation, API Integration, Web Scraping, Data Integration</p>
 <strong>BI & Visualization:</strong>
-<br>
+<p>Power BI, Power BI Semantic Models, Power Query, IBM Cognos, Excel Charts, Dashboard Development, Data Visualization</p>
 <strong>Programming & Analytics</strong>
-<br>
+<p>Python, Pandas, NumPy, Scikit-learn, Apache Spark, Jupyter Notebook</p>
 <strong>Data Platform</strong>
+<p>Microsoft Fabric</p>
 
 _____________________________________________________
 
