@@ -1,7 +1,6 @@
 <div align=center>
   <h1 align=center>Khizar Masood<br>Data Analyst | Aspiring Data Scientist</h1>
 </div>
-<hr>
 I am a Data Analyst transitioning into Data Science and Machine Learning,
 with experience in data validation, data profiling, data pipelines,
 API validation, data migration, data mapping, and dimensional modeling.
