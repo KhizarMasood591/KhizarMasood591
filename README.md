@@ -3,16 +3,11 @@
   <h2>Data Analyst | Aspiring Data Scientist</h2>
 </div>
 <hr>
-
-
 I am a Data Analyst transitioning into Data Science and Machine Learning,
 with experience in data validation, data profiling, data pipelines,
 API validation, data migration, data mapping, and dimensional modeling.
-
 I enjoy solving business problems using data, statistics,
 machine learning, and automation.
-
-_____________________________________________________
 
 ## TECHNICAL SKILLS
 Python
