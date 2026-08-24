@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khizar Masood
+<h1 style={"text-align":"center"}>Khizar Masood</h1>
 
 ## Data Analyst | Aspiring Data Scientist
 
