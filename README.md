@@ -1,6 +1,6 @@
 <div align=center>
   <h1 align=center>Khizar Masood</h1>
-  <h2>Data Analyst | Aspiring Data Scientist</h2>
+  <p>Data Analyst | Aspiring Data Scientist<p>
 </div>
 <hr>
 I am a Data Analyst transitioning into Data Science and Machine Learning,
