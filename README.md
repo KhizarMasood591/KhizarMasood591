@@ -6,11 +6,17 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
 </p>
 <h2>Technical Skills</h2>
 <strong>Languages:</strong>
+<br>
 <strong>Data Analysis & Business Analysis:</strong>
+<br>
 <strong>SQL & Databases:</strong>
+<br>
 <strong>Data Engineering & Integration</strong>
+<br>
 <strong>BI & Visualization:</strong>
+<br>
 <strong>Programming & Analytics</strong>
+<br>
 <strong>Data Platform</strong>
 
 _____________________________________________________
