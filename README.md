@@ -1,6 +1,7 @@
 <div align=center>
   <h1 align=center>Khizar Masood</h1>
 </div>
+<hr>
 ## Data Analyst | Aspiring Data Scientist
 
 I am a Data Analyst transitioning into Data Science and Machine Learning,
