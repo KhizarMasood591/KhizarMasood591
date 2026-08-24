@@ -8,7 +8,6 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
 <strong>Languages:</strong><img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
 <strong>Data Analysis & Business Analysis:</strong>
 <p>Data Analysis, Exploratory Data Analysis, Data Cleaning, Data Transformation, Data Interpretation, KPI Analysis, Business Analysis, Data Validation, Data Quality, Reporting</p>
-<br>
 <strong>SQL & Databases:</strong>
 <br>
 <strong>Data Engineering & Integration</strong>
