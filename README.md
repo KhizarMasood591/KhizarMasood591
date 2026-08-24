@@ -9,7 +9,7 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
 <strong>Data Analysis & Business Analysis:</strong>
 <p>Data Analysis, Exploratory Data Analysis, Data Cleaning, Data Transformation, Data Interpretation, KPI Analysis, Business Analysis, Data Validation, Data Quality, Reporting</p>
 <strong>SQL & Databases:</strong>
-<span><img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"><img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></span>
+<img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"><span><img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"></span>
 <br>
 <strong>Data Engineering & Integration</strong>
 <br>
