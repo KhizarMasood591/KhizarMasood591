@@ -6,7 +6,6 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
 </p>
 <h2>Technical Skills</h2>
 <strong>Languages:</strong><img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-<br>
 <strong>Data Analysis & Business Analysis:</strong>
 <br>
 <strong>SQL & Databases:</strong>
