@@ -11,6 +11,7 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
+  <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg">
 </span>
 <br>
 <br>
