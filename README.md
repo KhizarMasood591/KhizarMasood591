@@ -32,11 +32,8 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
 <p>Python, Pandas, NumPy, Scikit-learn, Apache Spark, Jupyter Notebook</p>
 <strong>Data Platform</strong>
 <p>Microsoft Fabric</p>
+<h2>Featured Projects</h2>
+<h3>EDA Analysis</h3>
 
-_____________________________________________________
-
-## Featured Projects
-
-### Data Analysis Projects
 
 
