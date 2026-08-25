@@ -34,6 +34,10 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
 <p>Microsoft Fabric</p>
 <h2>Featured Projects</h2>
 <h3>EDA Analysis</h3>
-
+<ul>
+  <li>
+    <a href="https://github.com/KhizarMasood591/vehicle-routing-django">Eccomerce Sales Analysis</a>
+  </li>
+</ul>
 
 
