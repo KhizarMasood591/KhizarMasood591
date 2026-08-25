@@ -14,7 +14,7 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg">
   <img height=50px width=50px src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png">
-  <img style="background-color:white" height=50px width=50px src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg">
+  <img style="background-color:white" height=50px width=50px src="https://camo.githubusercontent.com/b8729d85f396d19a34755d9975bd20c114746b76801b8bcbf8a3c3030175eaf9/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667">
   <img height=50px width=50px src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg">
   <img height=60px width=60px src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib.svg">
   <img height=60px width=60px src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn.svg">
