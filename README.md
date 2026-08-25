@@ -7,7 +7,7 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
 <h2>Technical Skills</h2>
 <strong>Languages & Tools:</strong>
 <br>
-<span>
+<span style="background-color:white;">
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img height=50px width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
@@ -18,9 +18,7 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
   <img height=50px width=50px src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg">
   <img height=60px width=60px src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib.svg">
   <img height=60px width=60px src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn.svg">
-  <div style="background-color:white;">
-    <img height=50px width=50px src="https://github.com/antonio00/icons/blob/main/flask-logo.svg">
-  </div>
+  <img height=50px width=50px src="https://github.com/antonio00/icons/blob/main/flask-logo.svg">
 </span>
 <br>
 <br>
