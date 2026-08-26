@@ -1,14 +1,6 @@
 <div align=center>
   <h1 align=center>Khizar Masood<br>Data Analyst | Aspiring Data Scientist</h1>
 </div>
-<div class="row">
-  <div class="column">
-    <a href="https://www.linkedin.com/in/khizar-masood">My LinkedIn</a>
-  </div>
-  <div class="column">
-    <p>p</p>
-  </div>
-</div>
 <p>
 Data Analyst with 5+ years of experience in data analysis, business intelligence, reporting, data transformation, and data pipelines across hospitality and other industries. Skilled in SQL, Python, Power BI, Microsoft Fabric, Apache Spark, and Excel, with hands-on experience in ETL, data warehousing, API integration, KPI analysis, and reporting automation. Currently expanding my expertise in Data Science and Machine Learning through hands-on projects, applying analytics, statistics, and Python to solve real-world problems.
 </p>
@@ -47,5 +39,12 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
     <a href="https://github.com/KhizarMasood591/vehicle-routing-django">Eccomerce Sales Analysis</a>
   </li>
 </ol>
+<h2>Connect</h2>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/khizar-masood">My LinkedIn</a>
+  </li>
+  <li>Email: khizar806@gmail.com</li>
+</ul>
 
 
