@@ -3,7 +3,7 @@
 </div>
 <div class="row">
   <div class="column">
-    <a href="www.linkedin.com/in/khizar-masood">My LinkedIn</a>
+    <a href="https://www.linkedin.com/in/khizar-masood">My LinkedIn</a>
   </div>
   <div class="column">
     <p>p</p>
