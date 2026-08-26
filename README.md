@@ -39,7 +39,7 @@ Data Analyst with 5+ years of experience in data analysis, business intelligence
     <a href="https://github.com/KhizarMasood591/vehicle-routing-django">Eccomerce Sales Analysis</a>
   </li>
 </ol>
-<h2>Connect</h2>
+<h2>🤝 Let’s Connect</h2>
 <ul>
   <li>
     <a href="https://www.linkedin.com/in/khizar-masood">My LinkedIn</a>
