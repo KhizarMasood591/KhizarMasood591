@@ -2,7 +2,7 @@
   <h1 align=center>Khizar Masood<br>Data Analyst | Aspiring Data Scientist</h1>
 </div>
 <p>
-Data Analyst with 5+ years of experience in data analysis, business intelligence, reporting, data transformation, and data pipeline development across hospitality and other industries. Experienced in translating business data into actionable insights through SQL, Python, Power BI, Microsoft Fabric, Apache Spark, and Excel. Hands-on experience building data pipelines, integrating data from APIs, Excel and web sources, transforming and storing data in data warehouses, developing Power BI semantic models, and validating data for reporting and analysis. Strong background in KPI analysis, data cleaning, ETL processes, business analysis, reporting automation, and communicating analytical findings to stakeholders.
+Data Analyst with 5+ years of experience in data analysis, business intelligence, reporting, data transformation, and data pipelines across hospitality and other industries. Skilled in SQL, Python, Power BI, Microsoft Fabric, Apache Spark, and Excel, with hands-on experience in ETL, data warehousing, API integration, KPI analysis, and reporting automation. Currently expanding my expertise in Data Science and Machine Learning through hands-on projects, applying analytics, statistics, and Python to solve real-world problems.
 </p>
 <h2>Technical Skills</h2>
 <strong>Languages & Tools:</strong>
